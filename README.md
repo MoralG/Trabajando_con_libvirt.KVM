@@ -1,8 +1,7 @@
-# Trabajando con qemu.KVM
+# Trabajando con libvirt.KVM
+
+Vamos a aprender como se crear una máquina virtual con aprovisionamiento ligero de una imagen `qcow2` con Debian Buster instalado.
 
 ![KVM](image/qemuKVM.png)
 
-## Crear dos máquinas virtuales con un disco en fichero, utilizando aprovisionamiento ligero, utilizando driver virtio en todo lo que se pueda.
 
-* Una conectada a una red NAT (10.10.10.0/24)
-* La otra a un bridge externo
