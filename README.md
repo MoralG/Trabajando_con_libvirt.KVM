@@ -1,6 +1,6 @@
 # Trabajando con qemu.KVM
 
-![KVM](qemuKVM.png)
+![KVM](image/qemuKVM.png)
 
 ## Crear dos máquinas virtuales con un disco en fichero, utilizando aprovisionamiento ligero, utilizando driver virtio en todo lo que se pueda.
 
